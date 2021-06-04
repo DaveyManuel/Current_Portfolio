@@ -12,7 +12,7 @@ return (
     </li>
     <Link to="/">
     <li className="nav-item bg-dark">
-        <a className="nav-link text-white active border border-5 border-info" aria-current="page">Home</a>
+        <a className="nav-link text-white text-decoration-none">Home</a>
     </li>
     </Link>
     <Link to="/portfolio">

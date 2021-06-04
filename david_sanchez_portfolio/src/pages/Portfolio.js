@@ -24,7 +24,7 @@ function Portfolio(){
             <div className='row'>
                 <WorkDay></WorkDay>
             </div>
-            <div className='row mb-5'>
+            <div className='row'>
                 <TeamProfile></TeamProfile>
             </div>
         </div>

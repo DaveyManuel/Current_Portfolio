@@ -6,7 +6,7 @@ function PeepsAndPubs(){
         <h1 class="text-center text-info">Peeps and Pubs</h1>
         <div class="row bg-dark bg-gradient">
           <div class="col-3">
-            <a href='https://daveymanuel.github.io/Peeps-and-Pubs/' target='_blank'><img src="./assets/PeepsAndPubs.png"
+            <a href='https://daveymanuel.github.io/Peeps-and-Pubs/' target='_blank'><img src="./Images/PeepsAndPubs.png"
                 alt="" height="250" width="250" class="mt-3 mb-3 border border-white border-4"/></a>
           </div>
           <div class="col-9 text-white mt-3">

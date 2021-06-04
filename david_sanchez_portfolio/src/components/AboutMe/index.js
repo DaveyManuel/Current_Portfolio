@@ -10,7 +10,7 @@ function AboutMe () {
                 </header>
                 <div class="row">
                     <section class="col-sm mb-2">
-                        <img src=""
+                        <img src="./Images/meMiami.jpeg"
                             alt="picture of myself standing with palm trees in the background"
                             class="rounded img-fluid"/>
                     </section>

@@ -7,7 +7,7 @@ function WorkDay(){
         <div class="row bg-dark bg-gradient">
           <div class="col-3">
             <a href='https://daveymanuel.github.io/Work_Day_Scheduler/' target='_blank'><img
-                src="./assets/workDayScheduler.png" alt="" height="250" width="250"
+                src="./Images/workDayScheduler.png" alt="" height="250" width="250"
                 class="mt-3 mb-3 border border-white border-4"/></a>
           </div>
           <div class="col-9 text-white mt-3">
