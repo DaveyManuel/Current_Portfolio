@@ -1,13 +1,24 @@
 import React, { Component } from 'react';
-import Project from "./components/Project"
+import { BrowserRouter as Router, Route } from "react-router-dom";
+import Project from "./components/Project";
 import Header from "./components/Header";
+import Footer from "./components/Footer";
+import Home from "./pages/Home";
 
 class App extends Component {
   render(){
     return(
-    <Project>
+      <Router>
+          <Project>
       <Header></Header>
+
+      <Route exact path="/">
+        <Home />
+      </Route>
+
+      <Footer></Footer>
     </Project>
+      </Router>
     );
   }
 }

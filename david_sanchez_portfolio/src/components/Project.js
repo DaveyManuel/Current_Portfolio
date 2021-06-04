@@ -1,7 +1,7 @@
 import React from "react";
 
 function Project(props) {
-  return <div className="project bg-dark">{props.children}</div>;
+  return <div className="project">{props.children}</div>;
 }
 
 export default Project;
