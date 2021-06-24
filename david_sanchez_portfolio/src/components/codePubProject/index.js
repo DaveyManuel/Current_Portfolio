@@ -7,7 +7,7 @@ function CodePub() {
         <h1 className="text-center text-info">{'{codePub}'}</h1>
         <div className="row bg-dark bg-gradient">
           <div className="col-3">
-            <a href='https://code-pub.herokuapp.com/' target='_blank'><img src="./Images/codePub.png" alt=""
+            <a href='https://code-pub.herokuapp.com/' target='_blank'><img src="./images/codePub.png" alt=""
                 height="250" width="250" className="mt-3 mb-3 border border-white border-4"/></a>
           </div>
           <div className="col-9 text-white mt-3">

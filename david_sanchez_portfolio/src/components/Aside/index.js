@@ -6,26 +6,26 @@ function Aside() {
         <div class="row">
             <div class="col-6">
                 <p class='text-center fs-4 bg-dark text-white bg-gradient'>Peeps and Pubs</p>
-                <a href='https://daveymanuel.github.io/Peeps-and-Pubs/' target='_blank'><img src='./Images/PeepsAndPubs.png' alt='' class='m-4 mt-0 rounded border border-dark border-5' height='200' width='200'/></a></div>
+                <a href='https://daveymanuel.github.io/Peeps-and-Pubs/' target='_blank'><img src='./images/PeepsAndPubs.png' alt='' class='m-4 mt-0 rounded border border-dark border-5' height='200' width='200'/></a></div>
             <div class="col-6">
                 <p class='text-center fs-4 bg-dark text-white bg-gradient'>{'{codePub}'}</p>
-                <a href='https://code-pub.herokuapp.com/' target='_blank'><img src='./Images/codePub.png' alt='' class='m-4 mt-0 rounded border border-dark border-5' height='200' width='200'/></a></div>
+                <a href='https://code-pub.herokuapp.com/' target='_blank'><img src='./images/codePub.png' alt='' class='m-4 mt-0 rounded border border-dark border-5' height='200' width='200'/></a></div>
         </div>
         <div class="row mt-1">
             <div class="col-6">
                 <p class='text-center fs-4 bg-dark text-white bg-gradient'>#Moods</p>
-                <a href='https://lychee-sundae-06249.herokuapp.com/' target='_blank'><img src='./Images/moods.png' alt='' class='m-4 mt-0 rounded border border-dark border-5' height='200' width='200'/></a></div>
+                <a href='https://lychee-sundae-06249.herokuapp.com/' target='_blank'><img src='./images/moods.png' alt='' class='m-4 mt-0 rounded border border-dark border-5' height='200' width='200'/></a></div>
             <div class="col-6">
                 <p class='text-center fs-4 bg-dark text-white bg-gradient'>Weather Dashboard</p>
-                <a href='https://daveymanuel.github.io/Weather_Dashboard/' target='_blank'><img src='./Images/WeatherDashboard.png' alt='' class='m-4 mt-0 rounded border border-dark border-5' height='200' width='200'/></a></div>
+                <a href='https://daveymanuel.github.io/Weather_Dashboard/' target='_blank'><img src='./images/WeatherDashboard.png' alt='' class='m-4 mt-0 rounded border border-dark border-5' height='200' width='200'/></a></div>
         </div>
         <div class="row mt-1">
             <div class="col-6">
                 <p class='text-center fs-4 bg-dark text-white bg-gradient'>Work Day Scheduler</p>
-                <a href='https://daveymanuel.github.io/Work_Day_Scheduler/' target='_blank'><img src='./Images/workDayScheduler.png' alt='' class='m-4 mt-0 rounded border border-dark border-5' height='200' width='200'/></a></div>
+                <a href='https://daveymanuel.github.io/Work_Day_Scheduler/' target='_blank'><img src='./images/workDayScheduler.png' alt='' class='m-4 mt-0 rounded border border-dark border-5' height='200' width='200'/></a></div>
             <div class="col-6">
                 <p class='text-center fs-5 bg-dark text-white bg-gradient'>Team Profile Generator</p>
-                <a href='https://github.com/DaveyManuel/TeamProfileGenerator' target='_blank'><img src='./Images/teamProfileGenerator.png' alt='' class='m-4 mt-2 rounded border border-dark border-5' height='200' width='200'/></a></div>
+                <a href='https://github.com/DaveyManuel/TeamProfileGenerator' target='_blank'><img src='./images/teamProfileGenerator.png' alt='' class='m-4 mt-2 rounded border border-dark border-5' height='200' width='200'/></a></div>
         </div>
     </div>
 
