@@ -2,7 +2,7 @@
   "name": "david_sanchez_portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://daveymanuel.github.io/Current_Portfolio/",
+  "homepage": "https://daveymanuel.github.io/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.13.0",
     "@testing-library/react": "^11.2.7",
