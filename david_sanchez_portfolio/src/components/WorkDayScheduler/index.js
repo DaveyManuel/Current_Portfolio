@@ -2,16 +2,16 @@ import React from 'react';
 
 function WorkDay(){
     return(
-        <div class="col mt-3 bg-dark">
-        <h1 class="text-center text-info">Work Day Scheduler</h1>
-        <div class="row bg-dark bg-gradient">
-          <div class="col-3">
+        <div className="col mt-3 bg-dark">
+        <h1 className="text-center text-info">Work Day Scheduler</h1>
+        <div className="row bg-dark bg-gradient">
+          <div className="col-3">
             <a href='https://daveymanuel.github.io/Work_Day_Scheduler/' target='_blank'><img
                 src="./images/workDayScheduler.png" alt="" height="250" width="250"
-                class="mt-3 mb-3 border border-white border-4"/></a>
+                className="mt-3 mb-3 border border-white border-4"/></a>
           </div>
-          <div class="col-9 text-white mt-3">
-            <p class="fs-5">With the completion of this assignment, I was able to implement code via HTML, CSS, and JS in order to
+          <div className="col-9 text-white mt-3">
+            <p className="fs-5">With the completion of this assignment, I was able to implement code via HTML, CSS, and JS in order to
               create a work-day scheduler for a busy client. By using moment.js I grabbed the current day and current
               time and displayed both in the header of the planner. I created 8 columns to represent an 8 hour work day
               that coincides with the current hour of the day. By using the styles 'past', 'present', and 'future' I

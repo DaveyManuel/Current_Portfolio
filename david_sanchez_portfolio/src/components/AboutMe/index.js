@@ -2,19 +2,19 @@ import React from 'react';
 
 function AboutMe () {
     return (
-        <div class="col-sm-7 mb-5">
-         <section class="card border border-5 border-dark mb-5">
-            <div class="card-body text-white bg-dark bg-gradient">
-                <header class="row">
-                    <h1 class="card-title text-center">About Me</h1>
+        <div className="col-sm-7 mb-5">
+         <section className="card border border-5 border-dark mb-5">
+            <div className="card-body text-white bg-dark bg-gradient">
+                <header className="row">
+                    <h1 className="card-title text-center">About Me</h1>
                 </header>
-                <div class="row">
-                    <section class="col-sm mb-2">
+                <div className="row">
+                    <section className="col-sm mb-2">
                         <img src="./images/meMiami.jpg"
                             alt="picture of myself standing with palm trees in the background"
-                            class="rounded img-fluid"/>
+                            className="rounded img-fluid"/>
                     </section>
-                    <article class="col-sm">
+                    <article className="col-sm">
                         <p>Hello world! My name is David Sanchez and I am 25 years old. I am currently a student
                             attending the University of Miami. In 2017 I graduated from the College of
                             Charleston with a major in International Business, and minor in Spanish. I chose to
@@ -24,8 +24,8 @@ function AboutMe () {
                             interested in, and was  </p>
                         </article>
                 </div>
-                <div class="row">
-                    <article class="col-sm">
+                <div className="row">
+                    <article className="col-sm">
                         <p> 
                             full of jobs, I noticed that the path I was walking down was
                             not one I ultimately wanted to continue on. I figured that I needed something else
