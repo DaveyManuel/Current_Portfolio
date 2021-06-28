@@ -10,7 +10,7 @@ import Contact from "./pages/Contact";
 class App extends Component {
   render(){
     return(
-      <Router>
+      <Router basename={process.env.PUBLIC_URL}>
           <Project>
       <Header></Header>
 
