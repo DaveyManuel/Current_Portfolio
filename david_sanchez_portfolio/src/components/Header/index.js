@@ -20,6 +20,11 @@ return (
         <a className="nav-link text-white" href="./portfolio.html">Portfolio</a>
     </li>
     </Link>
+    <Link to="/resume">
+    <li className="nav-item bg-dark">
+        <a className="nav-link text-white" href="./resume.html">Resume</a>
+    </li>
+    </Link>
     <Link to="/contact">
     <li className="nav-item bg-dark">
         <a className="nav-link text-white" href="./contact.html">Contact</a>

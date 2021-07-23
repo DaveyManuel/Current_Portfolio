@@ -5,6 +5,7 @@ import Header from "./components/Header";
 import Footer from "./components/Footer";
 import Home from "./pages/Home";
 import Portfolio from "./pages/Portfolio";
+import ResumePage from "./pages/ResumePage";
 import Contact from "./pages/Contact";
 
 class App extends Component {
@@ -20,6 +21,10 @@ class App extends Component {
 
       <Route exact path="/portfolio">
         <Portfolio />
+      </Route>
+
+      <Route exact path="/resume">
+        <ResumePage />
       </Route>
 
       <Route exact path="/contact">
